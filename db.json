@@ -1,0 +1,49 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "label": "Css3 From Scratch",
+      "completed": true
+    },
+    {
+      "id": 2,
+      "label": "Angular 9 From Scratch",
+      "completed": false
+    },
+    {
+      "id": 3,
+      "label": "Csharp Advanced",
+      "completed": true
+    },
+    {
+      "id": 5,
+      "label": "Java Spring Boot CRUD",
+      "completed": true
+    },
+    {
+      "id": 6,
+      "label": "Learn Spring Boot",
+      "completed": true
+    },
+    {
+      "id": 9,
+      "label": "Learn BS4 Framework",
+      "completed": false
+    },
+    {
+      "label": "Css3 and HTML5",
+      "completed": true,
+      "id": 10
+    },
+    {
+      "label": "Learn Csharp 8.0",
+      "completed": false,
+      "id": 11
+    },
+    {
+      "completed": false,
+      "label": "Hello From C#",
+      "id": 12
+    }
+  ]
+}
